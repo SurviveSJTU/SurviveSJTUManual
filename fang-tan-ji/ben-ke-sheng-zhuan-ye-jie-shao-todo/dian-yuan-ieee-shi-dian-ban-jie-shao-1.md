@@ -1,5 +1,7 @@
 ---
-description: '原回答链接：https://www.zhihu.com/question/31422490/answer/1073936012   已获得答主授权转载'
+description: >-
+  原回答链接：https://www.zhihu.com/question/31422490/answer/1073936012   已获得答主授权转载
+  可额外关注ieee.icu网站获取IEEE试点班额外信息
 ---
 
 # 电院IEEE试点班介绍-1
