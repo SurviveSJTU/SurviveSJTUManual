@@ -52,6 +52,7 @@
 * [本科生专业介绍TODO](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/README.md)
   * [电院IEEE试点班介绍-1](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-ieee-shi-dian-ban-jie-shao-1.md)
   * [电院电子系信息工程专业17级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-dian-zi-xi-xin-xi-gong-cheng-zhuan-ye-17-ji-tong-xue-fen-xiang.md)
+  * [电院计算机系13级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-ji-suan-ji-xi-13-ji-tong-xue-fen-xiang.md)
 * [本科生转专业经验分享TODO](fang-tan-ji/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo.md)
 * [本科转学经验分享TODO](fang-tan-ji/ben-ke-zhuan-xue-jing-yan-fen-xiang-todo.md)
 * [在校期间实习经验分享TODO](fang-tan-ji/zai-xiao-qi-jian-shi-xi-jing-yan-fen-xiang-todo.md)
@@ -62,7 +63,8 @@
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
 * [考研亦是一条路TODO](fang-tan-ji/kao-yan-yi-shi-yi-tiao-lu-todo.md)
 * [Go abroad!TODO](fang-tan-ji/bo-shi-sheng-xue-chang-men-de-jing-li.md)
-* [已经工作学长的人生经验TODO](fang-tan-ji/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan.md)
+* [已经工作学长的人生经验TODO](fang-tan-ji/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/README.md)
+  * [上海交通大学CS生存指南--番外篇1](fang-tan-ji/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/shang-hai-jiao-tong-da-xue-cs-sheng-cun-zhi-nan-fan-wai-pian-1.md)
 * [博士就读经验分享TODO](fang-tan-ji/bo-shi-jiu-du-jing-yan-fen-xiang-todo.md)
 
 ## 生存技巧
