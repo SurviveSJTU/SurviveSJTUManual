@@ -74,7 +74,7 @@
   * [明确目的](fang-tan-ji/bao-yan-zhe-shuo/ming-que-mu-de.md)
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
-* [已经工作学长的人生经验](fang-tan-ji/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan.md)
+* [已经工作学长的人生经验](fang-tan-ji/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/)
 * [博士\(生\)学长们的经历](fang-tan-ji/bo-shi-sheng-xue-chang-men-de-jing-li.md)
 * [小心项目的陷阱](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/)
   * [辨别项目的质量](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/bian-bie-xiang-mu-de-zhi-liang.md)
