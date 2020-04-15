@@ -20,7 +20,7 @@
 * [ ] 针对新入学同学对CANVAS系统的介绍
 * [ ] 针对新入学同学对校内食堂的介绍
 
-欢迎交大在读与已经毕业的同学提PR，也欢迎外校同学就实习、转学等项PR，如果您对本书内容有任何问题、或建 议，请提issue，谢谢！
+欢迎交大在读与已经毕业的同学提PR，也欢迎外校同学就实习、转学等项PR，如果您对本书内容有任何问题、或建议，请提issue，谢谢！
 
 ## 提什么样的issue
 
@@ -28,7 +28,7 @@
 
 ## 如何PR
 
-在gitbook.com网站上利用github账号登录，fork一份repo到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR
+在gitbook.com网站上利用github账号登录，fork SurviveSJTU/SurviveSJTUManual 到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR，通过review后合并到master branch
 
 ## 目录
 
