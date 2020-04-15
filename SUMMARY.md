@@ -58,8 +58,9 @@
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
 * [考研亦是一条路TODO](fang-tan-ji/kao-yan-yi-shi-yi-tiao-lu-todo.md)
-* [已经工作学长的人生经验TODO](fang-tan-ji/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan.md)
 * [Go abroad!TODO](fang-tan-ji/bo-shi-sheng-xue-chang-men-de-jing-li.md)
+* [已经工作学长的人生经验TODO](fang-tan-ji/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan.md)
+* [博士就读经验分享TODO](fang-tan-ji/bo-shi-jiu-du-jing-yan-fen-xiang-todo.md)
 
 ## 生存技巧
 
