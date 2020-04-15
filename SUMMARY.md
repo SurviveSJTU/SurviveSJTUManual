@@ -51,6 +51,7 @@
   * [其他琐碎问题](fang-tan-ji/po-jie-liu-hu-zheng-ce/qi-ta-suo-sui-wen-ti.md)
 * [本科生专业介绍TODO](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/README.md)
   * [电院IEEE试点班介绍-1](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-ieee-shi-dian-ban-jie-shao-1.md)
+  * [电院电子系信息工程专业17级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-dian-zi-xi-xin-xi-gong-cheng-zhuan-ye-17-ji-tong-xue-fen-xiang.md)
 * [本科生转专业经验分享TODO](fang-tan-ji/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo.md)
 * [本科转学经验分享TODO](fang-tan-ji/ben-ke-zhuan-xue-jing-yan-fen-xiang-todo.md)
 * [在校期间实习经验分享TODO](fang-tan-ji/zai-xiao-qi-jian-shi-xi-jing-yan-fen-xiang-todo.md)
