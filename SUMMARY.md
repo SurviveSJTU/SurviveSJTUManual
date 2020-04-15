@@ -55,6 +55,7 @@
 * [本科生转专业经验分享TODO](fang-tan-ji/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo.md)
 * [本科转学经验分享TODO](fang-tan-ji/ben-ke-zhuan-xue-jing-yan-fen-xiang-todo.md)
 * [在校期间实习经验分享TODO](fang-tan-ji/zai-xiao-qi-jian-shi-xi-jing-yan-fen-xiang-todo.md)
+* [本科期间境外高校学期交换分享TODO](fang-tan-ji/ben-ke-qi-jian-jing-wai-gao-xiao-xue-qi-jiao-huan-fen-xiang-todo.md)
 * [保研者说TODO](fang-tan-ji/bao-yan-zhe-shuo/README.md)
   * [明确目的](fang-tan-ji/bao-yan-zhe-shuo/ming-que-mu-de.md)
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
