@@ -4,8 +4,10 @@
 
 ## 序
 
-* [声明](xu/sheng-ming.md)
-* [序](xu/xu.md)
+* [旧版声明](xu/sheng-ming.md)
+* [新版声明TODO](xu/xin-ban-sheng-ming-todo.md)
+* [旧版序](xu/xu.md)
+* [新版序TODO](xu/xin-ban-xu-todo.md)
 
 ## 立志篇
 
@@ -76,6 +78,7 @@
 * [通识课介绍TODO](sheng-cun-ji-qiao/ren-wen-jing-guan-lei-ke-cheng/README.md)
   * [必修类](sheng-cun-ji-qiao/ren-wen-jing-guan-lei-ke-cheng/bi-xiu-lei.md)
   * [选修类](sheng-cun-ji-qiao/ren-wen-jing-guan-lei-ke-cheng/xuan-xiu-lei.md)
+  * [人文类通识课](sheng-cun-ji-qiao/ren-wen-jing-guan-lei-ke-cheng/ren-wen-lei-tong-shi-ke.md)
 * [CANVAS系统介绍TODO](sheng-cun-ji-qiao/canvas-xi-tong-jie-shao-todo.md)
 * [突击备考](sheng-cun-ji-qiao/tu-ji-bei-kao/README.md)
   * [注意复习范围](sheng-cun-ji-qiao/tu-ji-bei-kao/zhu-yi-fu-xi-fan-wei.md)
