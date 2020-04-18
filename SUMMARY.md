@@ -58,6 +58,7 @@
   * [电院信息安全16级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-xin-xi-an-quan-16-ji-tong-xue-fen-xiang.md)
   * [机动学院机械工程专业15级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/ji-dong-xue-yuan-ji-xie-gong-cheng-zhuan-ye-15-ji-tong-xue-fen-xiang.md)
   * [人文学院同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/ren-wen-xue-yuan-tong-xue-fen-xiang.md)
+  * [数学系14级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/shu-xue-xi-14-ji-tong-xue-fen-xiang.md)
 * [本科生转专业经验分享TODO](fang-tan-ji/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo.md)
 * [本科转学经验分享TODO](fang-tan-ji/ben-ke-zhuan-xue-jing-yan-fen-xiang-todo.md)
 * [在校期间实习经验分享TODO](fang-tan-ji/zai-xiao-qi-jian-shi-xi-jing-yan-fen-xiang-todo.md)
