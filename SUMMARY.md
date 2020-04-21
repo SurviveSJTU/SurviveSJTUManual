@@ -55,6 +55,7 @@
   * [电院IEEE试点班介绍-1](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-ieee-shi-dian-ban-jie-shao-1.md)
   * [电院电子系信息工程专业17级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-dian-zi-xi-xin-xi-gong-cheng-zhuan-ye-17-ji-tong-xue-fen-xiang.md)
   * [电院计算机系13级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-ji-suan-ji-xi-13-ji-tong-xue-fen-xiang.md)
+  * [CS自救指北](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei.md)
   * [电院信息安全16级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-xin-xi-an-quan-16-ji-tong-xue-fen-xiang.md)
   * [机动学院机械工程专业15级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/ji-dong-xue-yuan-ji-xie-gong-cheng-zhuan-ye-15-ji-tong-xue-fen-xiang.md)
   * [人文学院同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/ren-wen-xue-yuan-tong-xue-fen-xiang.md)
