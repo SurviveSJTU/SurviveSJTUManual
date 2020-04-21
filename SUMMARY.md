@@ -57,6 +57,7 @@
   * [电院计算机系13级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-ji-suan-ji-xi-13-ji-tong-xue-fen-xiang.md)
   * [CS自救指北](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/cs-zi-jiu-zhi-bei.md)
   * [电院信息安全16级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-xin-xi-an-quan-16-ji-tong-xue-fen-xiang.md)
+  * [密西根学院15级ECE同学介绍](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/mi-xi-gen-xue-yuan-15-ji-ece-tong-xue-jie-shao.md)
   * [机动学院机械工程专业15级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/ji-dong-xue-yuan-ji-xie-gong-cheng-zhuan-ye-15-ji-tong-xue-fen-xiang.md)
   * [人文学院同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/ren-wen-xue-yuan-tong-xue-fen-xiang.md)
   * [数学系14级同学分享](fang-tan-ji/ben-ke-sheng-zhuan-ye-jie-shao-todo/shu-xue-xi-14-ji-tong-xue-fen-xiang.md)
