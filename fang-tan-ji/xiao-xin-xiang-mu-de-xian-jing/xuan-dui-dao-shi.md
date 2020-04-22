@@ -65,4 +65,6 @@ description: By Lianke Qin
 
 1. [https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf)
 2. [https://zhuanlan.zhihu.com/p/23148459](https://zhuanlan.zhihu.com/p/23148459)
+3. [https://greatresearch.org/2013/08/14/managing-your-advisor/](https://greatresearch.org/2013/08/14/managing-your-advisor/)
+4. [http://www.cs.virginia.edu/~robins/YouAndYourResearch.html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
