@@ -44,7 +44,7 @@
   * [进度控制](fang-tan-ji/guan-li-zhe-de-zhi-hui/jin-du-kong-zhi.md)
 * [小心项目的陷阱](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/README.md)
   * [辨别项目的质量](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/bian-bie-xiang-mu-de-zhi-liang.md)
-  * [选对导师TO UPDATE](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/xuan-dui-dao-shi.md)
+  * [如何选择导师](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/xuan-dui-dao-shi.md)
   * [团队与合作伙伴](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/tuan-dui-yu-he-zuo-huo-ban.md)
 * [破解留沪政策TO UPDATE](fang-tan-ji/po-jie-liu-hu-zheng-ce/README.md)
   * [面对户口，我们应该持有什么样的心态](fang-tan-ji/po-jie-liu-hu-zheng-ce/mian-dui-hu-kou-wo-men-ying-gai-chi-you-shen-me-yang-de-xin-tai.md)
