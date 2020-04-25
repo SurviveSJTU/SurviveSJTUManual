@@ -7,11 +7,14 @@
 * [旧版声明](xu/sheng-ming.md)
 * [新版声明TODO](xu/xin-ban-sheng-ming-todo.md)
 * [旧版序](xu/xu.md)
-* [新版序TODO](xu/xin-ban-xu-todo.md)
+* [新版序](xu/xin-ban-xu-todo.md)
 
 ## 立志篇
 
 * [欢迎来到上海交通大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
+* [本科四年要做什么](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me/README.md)
+  * [增加对本专业的了解TODO](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me/zeng-jia-dui-ben-zhuan-ye-de-le-jie-todo.md)
+  * [交大转专业指南](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me/jiao-da-zhuan-zhuan-ye-zhi-nan.md)
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
