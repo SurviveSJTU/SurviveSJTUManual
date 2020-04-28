@@ -5,7 +5,7 @@
 ## 序
 
 * [旧版声明](xu/sheng-ming.md)
-* [新版声明TODO](xu/xin-ban-sheng-ming-todo.md)
+* [新版声明](xu/xin-ban-sheng-ming-todo.md)
 * [旧版序](xu/xu.md)
 * [新版序](xu/xin-ban-xu-todo.md)
 
