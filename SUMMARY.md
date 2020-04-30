@@ -5,16 +5,14 @@
 ## 序
 
 * [旧版声明](xu/sheng-ming.md)
-* [新版声明TODO](xu/xin-ban-sheng-ming-todo.md)
+* [新版声明](xu/xin-ban-sheng-ming-todo.md)
 * [旧版序](xu/xu.md)
 * [新版序](xu/xin-ban-xu-todo.md)
 
 ## 立志篇
 
 * [欢迎来到上海交通大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
-* [本科四年要做什么](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me/README.md)
-  * [增加对本专业的了解TODO](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me/zeng-jia-dui-ben-zhuan-ye-de-le-jie-todo.md)
-  * [交大转专业指南](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me/jiao-da-zhuan-zhuan-ye-zhi-nan.md)
+* [你想要做什么\(preview version\)](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me.md)
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
@@ -57,6 +55,7 @@
 
 ## 生存技巧
 
+* [交大转专业指南](sheng-cun-ji-qiao/jiao-da-zhuan-zhuan-ye-zhi-nan.md)
 * [选课原则与选课技巧TO UPDATE](sheng-cun-ji-qiao/untitled/README.md)
   * [我是否一定要选二专？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-er-zhuan.md)
   * [选课选什么](sheng-cun-ji-qiao/untitled/xuan-ke-xuan-shen-me.md)
