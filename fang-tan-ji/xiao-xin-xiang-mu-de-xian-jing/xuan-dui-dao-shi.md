@@ -56,6 +56,8 @@ description: By Lianke Qin
 5. 自身学术水平一般喜欢瞎指导。
 6. 不尊重学生的私人时间、身体健康和个人隐私。
 7. 把学生当成工具人，压榨学生帮自己完成横向项目赚钱。
+8. 抢学生的一作authorship
+9. 依靠advisor-advisee的不平衡关系对学生实施精神控制等
 
 ### 碎碎念
 
@@ -67,4 +69,5 @@ description: By Lianke Qin
 2. [https://zhuanlan.zhihu.com/p/23148459](https://zhuanlan.zhihu.com/p/23148459)
 3. [https://greatresearch.org/2013/08/14/managing-your-advisor/](https://greatresearch.org/2013/08/14/managing-your-advisor/)
 4. [http://www.cs.virginia.edu/~robins/YouAndYourResearch.html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+5. [https://favonia.org/advising.html](https://favonia.org/advising.html)\(我们认为助理教授比较好的指导学生的风格\)
 

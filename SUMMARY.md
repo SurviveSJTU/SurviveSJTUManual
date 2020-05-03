@@ -107,5 +107,6 @@
 * [Go abroad!TODO](fu-lu/bo-shi-sheng-xue-chang-men-de-jing-li.md)
 * [已经工作学长的人生经验TODO](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/README.md)
   * [上海交通大学CS生存指南--番外篇1](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/shang-hai-jiao-tong-da-xue-cs-sheng-cun-zhi-nan-fan-wai-pian-1.md)
+  * [软件工程15级-互联网产品经理经验分享](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/ruan-jian-gong-cheng-15-ji-hu-lian-wang-chan-pin-jing-li-jing-yan-fen-xiang.md)
 * [博士就读经验分享TODO](fu-lu/bo-shi-jiu-du-jing-yan-fen-xiang-todo.md)
 
