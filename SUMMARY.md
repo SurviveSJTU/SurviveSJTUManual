@@ -84,6 +84,7 @@
 ## 附录
 
 * [本科生专业介绍TODO](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/README.md)
+  * [生物医学工程16级同学分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/sheng-wu-yi-xue-gong-cheng-16-ji-tong-xue-fen-xiang.md)
   * [电院IEEE试点班介绍-1](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-ieee-shi-dian-ban-jie-shao-1.md)
   * [电院电子系信息工程专业17级同学分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-dian-zi-xi-xin-xi-gong-cheng-zhuan-ye-17-ji-tong-xue-fen-xiang.md)
   * [电院计算机系13级同学分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/dian-yuan-ji-suan-ji-xi-13-ji-tong-xue-fen-xiang.md)
