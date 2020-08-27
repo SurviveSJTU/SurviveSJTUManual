@@ -12,7 +12,7 @@
 ## 立志篇
 
 * [欢迎来到上海交通大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
-* [你想要做什么\(preview version\)](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me.md)
+* [你想要做什么](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me.md)
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
@@ -47,15 +47,16 @@
   * [辨别项目的质量](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/bian-bie-xiang-mu-de-zhi-liang.md)
   * [如何选择导师](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/xuan-dui-dao-shi.md)
   * [团队与合作伙伴](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/tuan-dui-yu-he-zuo-huo-ban.md)
-* [保研者说TODO](fang-tan-ji/bao-yan-zhe-shuo/README.md)
+* [保研者说](fang-tan-ji/bao-yan-zhe-shuo/README.md)
   * [明确目的](fang-tan-ji/bao-yan-zhe-shuo/ming-que-mu-de.md)
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
-* [破解留沪政策TO UPDATE](fang-tan-ji/po-jie-liu-hu-zheng-ce/README.md)
+* [破解留沪政策](fang-tan-ji/po-jie-liu-hu-zheng-ce/README.md)
   * [面对户口，我们应该持有什么样的心态](fang-tan-ji/po-jie-liu-hu-zheng-ce/mian-dui-hu-kou-wo-men-ying-gai-chi-you-shen-me-yang-de-xin-tai.md)
   * [户口审批制度是否规范？](fang-tan-ji/po-jie-liu-hu-zheng-ce/hu-kou-shen-pi-zhi-du-shi-fou-gui-fan.md)
   * [分！分！学生的命根！](fang-tan-ji/po-jie-liu-hu-zheng-ce/fen-fen-xue-sheng-de-ming-gen.md)
   * [其他琐碎问题](fang-tan-ji/po-jie-liu-hu-zheng-ce/qi-ta-suo-sui-wen-ti.md)
+  * [上海应届毕业生落户不完整指南](fang-tan-ji/po-jie-liu-hu-zheng-ce/shang-hai-ying-jie-bi-ye-sheng-luo-hu-bu-wan-zheng-zhi-nan.md)
 
 ## 生存技巧
 
