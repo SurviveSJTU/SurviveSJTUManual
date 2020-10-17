@@ -13,6 +13,7 @@
 * [ ] 添加交大各个专业的介绍进入生存技巧部分（该部分将在收集到足够投稿后按专业整合）
 
 以下内容将独立到[SJTU-Application](https://github.com/SurviveSJTU/SJTU-Application)，欢迎大家PR投稿，GitHub Page相比Gitbook更方便添加新内容。
+
 * [ ] 采访各专业交大毕业生在读博士生和已毕业博士学长学姐们的经历和建议
 * [ ] 更新保研政策与经验分享
 * [ ] 由于目前就业大环境下滑，越来越多的同学选择了考研，我们希望收集一些考研成功的同学经验分享
@@ -74,7 +75,7 @@
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
 * [已经工作学长的人生经验](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/)
-* [博士\(生\)学长们的经历]()
+* [博士\(生\)学长们的经历](./)
 * [小心项目的陷阱](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/)
   * [辨别项目的质量](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/bian-bie-xiang-mu-de-zhi-liang.md)
   * [选对导师](fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/xuan-dui-dao-shi.md)
