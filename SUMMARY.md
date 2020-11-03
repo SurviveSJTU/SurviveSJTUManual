@@ -101,6 +101,7 @@
   * [数学系14级同学分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/shu-xue-xi-14-ji-tong-xue-fen-xiang.md)
   * [会计学15级同学分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/hui-ji-xue-15-ji-tong-xue-fen-xiang.md)
   * [软件学院介绍](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/ruan-jian-xue-yuan-jie-shao.md)
+  * [ACM班小透明分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/acm-ban-xiao-tou-ming-fen-xiang.md)
 * [本科生转专业经验分享TODO](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/README.md)
   * [CS19级转入SE经验分享](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/cs19-ji-zhuan-ru-se-jing-yan-fen-xiang.md)
   * [19级测控技术与仪器转信息安全](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/19-ji-ce-kong-ji-shu-yu-yi-qi-zhuan-xin-xi-an-quan.md)
