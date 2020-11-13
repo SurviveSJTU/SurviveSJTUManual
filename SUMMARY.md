@@ -102,6 +102,7 @@
   * [CS19级转入SE经验分享](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/cs19-ji-zhuan-ru-se-jing-yan-fen-xiang.md)
   * [19级测控技术与仪器转信息安全](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/19-ji-ce-kong-ji-shu-yu-yi-qi-zhuan-xin-xi-an-quan.md)
   * [19级工科平台转软件工程分享](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/19-ji-chuan-yuan-zhuan-ruan-jian-gong-cheng-fen-xiang.md)
+  * [19级测控转软件工程](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/19-ji-ce-kong-zhuan-ruan-jian-gong-cheng.md)
 * [本科转学经验分享TODO](fu-lu/ben-ke-zhuan-xue-jing-yan-fen-xiang-todo/README.md)
   * [本科生转学经验分享-新加坡](fu-lu/ben-ke-zhuan-xue-jing-yan-fen-xiang-todo/ben-ke-sheng-zhuan-xue-jing-yan-fen-xiang-xin-jia-po.md)
 * [本科生找实习经验分享TODO](fu-lu/ben-ke-sheng-zhao-shi-xi-jing-yan-fen-xiang-todo.md)
