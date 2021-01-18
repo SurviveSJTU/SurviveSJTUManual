@@ -7,9 +7,9 @@
 
 　　本书编委会欢迎接受您的指教。如果您对本书内容有任何问题、或建议，请联络我们：[survivesjtu@gmail.com](mailto:survivesjtu@gmail.com)。我们并不保证回复每一封邮件，但是我们会认真接受并思考您的意见，并在后续版本中做出相应的改进。
 
-　　在以下网站上，我们将会提供本书最新电子版下载： 
-　　[http://sites.google.com/site/survivesjtu/](http://sites.google.com/site/survivesjtu/)
-　　[http://hi.baidu.com/survivesjtu/blog/](http://hi.baidu.com/survivesjtu/blog/)
-　　[http://blog.sina.com.cn/survivesjtu/](http://blog.sina.com.cn/survivesjtu/)
+　　在以下网站上，我们将会提供本书最新电子版下载：
+- [http://sites.google.com/site/survivesjtu/](http://sites.google.com/site/survivesjtu/)
+- [http://hi.baidu.com/survivesjtu/blog/](http://hi.baidu.com/survivesjtu/blog/)
+- [http://blog.sina.com.cn/survivesjtu/](http://blog.sina.com.cn/survivesjtu/)
 
 <div  align="right">本书编委会</div>
