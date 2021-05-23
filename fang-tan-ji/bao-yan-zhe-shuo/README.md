@@ -4,9 +4,5 @@
 
 有个问题在一开始就要问自己：读研，是一条什么样的道路？
 
-
-
 本部分经验分享统一转移至[https://survivesjtu.github.io/SJTU-Application/\#/](https://survivesjtu.github.io/SJTU-Application/#/)
-
-
 

@@ -21,7 +21,8 @@
 * [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
 * [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
 * [做研究的兴趣](li-zhi-pian/zuo-yan-jiu-de-xing-qu.md)
-* [关于工作](li-zhi-pian/guan-yu-gong-zuo.md)
+* [关于工作](li-zhi-pian/guan-yu-gong-zuo/README.md)
+  * [选调生介绍（TODO\)](li-zhi-pian/guan-yu-gong-zuo/xuan-tiao-sheng-jie-shao-todo.md)
 
 ## 访谈集
 
@@ -31,6 +32,7 @@
   * [出国都有哪些步骤](fang-tan-ji/untitled/chu-guo-du-you-na-xie-bu-zhou.md)
   * [为了申请出国，大学期间需要准备什么](fang-tan-ji/untitled/wei-le-shen-qing-chu-guo-da-xue-qi-jian-xu-yao-zhun-bei-shen-me.md)
   * [警惕出国中介](fang-tan-ji/untitled/jing-ti-chu-guo-zhong-jie.md)
+  * [疫情下的留学新常态](fang-tan-ji/untitled/yi-qing-xia-de-liu-xue-xin-chang-tai.md)
 * [做真正的研究](fang-tan-ji/zuo-zhen-zheng-de-yan-jiu/README.md)
   * [合理的研究态度](fang-tan-ji/zuo-zhen-zheng-de-yan-jiu/he-li-de-yan-jiu-tai-du.md)
   * [区分上学与研究](fang-tan-ji/zuo-zhen-zheng-de-yan-jiu/qu-fen-shang-xue-yu-yan-jiu.md)
@@ -51,6 +53,7 @@
   * [明确目的](fang-tan-ji/bao-yan-zhe-shuo/ming-que-mu-de.md)
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
+* [考研（TODO\)](fang-tan-ji/kao-yan-todo.md)
 * [破解留沪政策](fang-tan-ji/po-jie-liu-hu-zheng-ce/README.md)
   * [面对户口，我们应该持有什么样的心态](fang-tan-ji/po-jie-liu-hu-zheng-ce/mian-dui-hu-kou-wo-men-ying-gai-chi-you-shen-me-yang-de-xin-tai.md)
   * [户口审批制度是否规范？](fang-tan-ji/po-jie-liu-hu-zheng-ce/hu-kou-shen-pi-zhi-du-shi-fou-gui-fan.md)

@@ -49,7 +49,7 @@
 * [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
 * [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
 * [做研究的兴趣](li-zhi-pian/zuo-yan-jiu-de-xing-qu.md)
-* [关于工作](li-zhi-pian/guan-yu-gong-zuo.md)
+* [关于工作](li-zhi-pian/guan-yu-gong-zuo/)
 
 ### 访谈集
 
