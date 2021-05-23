@@ -61,3 +61,7 @@ description: Xin Yan and Lianke Qin
 4. \*\*\*\*[**上海落户历程分享**](https://zhuanlan.zhihu.com/p/133693541)\*\*\*\*
 5. \*\*\*\*[**非上海生源应届毕业生上海落户（2020版）**](https://zhuanlan.zhihu.com/p/139515638)\*\*\*\*
 
+\*\*\*\*
+
+**TODO 2020届毕业生在新政下直接落户经验分享**
+
