@@ -24,4 +24,4 @@
 
 ## 致谢
 
-* [致谢](acknowledgement/acknowledgement.md)
+* [致谢](acknowledgment/acknowledgment.md)
