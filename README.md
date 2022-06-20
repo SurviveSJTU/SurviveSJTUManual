@@ -1,4 +1,4 @@
-# Table of contents
+# README
 
 * [README](README.md)
 
@@ -24,4 +24,4 @@
 
 ## 致谢
 
-* [致谢](acknowledgment/acknowledgment.md)
+* [致谢](99-acknowledgment/acknowledgment.md)
