@@ -4,7 +4,7 @@
 
 ## 序
 
-* [序](0-introduction/introduction.md)
+* [序](00-introduction/introduction.md)
 
 ## 立志篇
 
