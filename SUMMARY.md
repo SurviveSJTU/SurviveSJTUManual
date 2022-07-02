@@ -24,6 +24,7 @@
 * [要不要去实习](1-save-self/13-internship.md)
 * [外专业的同学如何转专业到计软网？转过来后如何适应](1-save-self/14-transfer-major.md)
 * [如何进行有效的信息搜集](1-save-self/15-information-search.md)
+* [AI算法类实习经验指北](1-save-self/16-ai-internship.md)
 
 ## 生存篇
 
