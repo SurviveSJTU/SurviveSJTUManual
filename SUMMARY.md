@@ -22,7 +22,7 @@
 * [应对内卷焦虑](1-save-self/11-cope-with-anxiety.md)
 * [如何提高自己的代码/工程能力](1-save-self/12-improve-coding.md)
 * [要不要去实习](1-save-self/13-internship.md)
-* [外专业的同学如何转专业到计软网？转过来后如何适应](1-save-self/14-transfer-major.md)
+* [转专业二三事](1-save-self/14-transfer-major.md)
 * [如何进行有效的信息搜集](1-save-self/15-information-search.md)
 
 ## 生存篇
