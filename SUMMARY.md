@@ -25,6 +25,7 @@
 * [转专业二三事](1-save-self/14-transfer-major.md)
 * [如何进行有效的信息搜集](1-save-self/15-information-search.md)
 * [AI算法类实习经验指北](1-save-self/16-ai-internship.md)
+* [System类实习经验指北](1-save-self/17-system-internship.md)
 
 ## 生存篇
 
