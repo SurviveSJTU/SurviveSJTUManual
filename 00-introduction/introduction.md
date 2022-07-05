@@ -20,5 +20,5 @@
 
 “西郊有密林，助君出重围。”
 
-_序章作者：kitaharazy.github.io, 一个普通的川大学生_
+_序章作者：rolandorange.zone, 一个普通的川大学生_
 
