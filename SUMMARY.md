@@ -45,7 +45,7 @@
 ## 经验分享篇
 
 - [远离PUA——如何判断你的导师是否和你是一个Good Match？](4-experience-sharing/1-identify-PUA.md)
-- [深造还是工作？关于读研，读博，工作二三事](4-experience-sharing/2-work-or-study.md)
+- [深造还是工作？关于读研的劝退](4-experience-sharing/2-work-or-study.md)
 
 ## 致谢
 
