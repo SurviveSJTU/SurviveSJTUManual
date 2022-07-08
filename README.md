@@ -47,6 +47,10 @@
 - [远离PUA——如何判断你的导师是否和你是一个Good Match？](4-experience-sharing/1-identify-PUA.md)
 - [深造还是工作？关于读研的劝退](4-experience-sharing/2-work-or-study.md)
 
+## 杂项
+
+- [一些有用的链接](98-others/1-useful-links.md)
+
 ## 致谢
 
 * [致谢](99-acknowledgment/acknowledgment.md)
