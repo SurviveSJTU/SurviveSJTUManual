@@ -9,7 +9,7 @@
 ## 自救篇
 
 * [为什么是计软网](1-save-self/1-why-JRW.md)
-* [我们想要学会什么（对计算机（广义）的理解）](1-save-self/2-what-to-learn.md)
+* [我们想要学会什么](1-save-self/2-what-to-learn.md)
 * [计算机包括哪些方向？如何选择这些方向？](1-save-self/3-fields.md)
 * [重要的基础课](1-save-self/4-important-basics.md)
 * [学习方法（包括理论和实践，以及参考书）](1-save-self/5-how-to-learn.md)
