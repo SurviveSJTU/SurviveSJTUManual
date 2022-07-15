@@ -2,11 +2,11 @@
 
 * [README](README.md)
 
-## 序
+## Ⅰ 序
 
 * [序](00-introduction/introduction.md)
 
-## 自救篇
+## Ⅱ 自救篇
 
 1. [为什么是计软网](1-save-self/1-why-JRW.md)
 2. [我们想要学会什么](1-save-self/2-what-to-learn.md)
@@ -28,7 +28,7 @@
 18. [Deep Dive to OCW](1-save-self/18-deep-dive-to-ocw.md)
 19. [不转专业，坏处到底在哪？](1-save-self/19-if-not-cs.md)
 
-## 生存篇
+## Ⅲ 生存篇
 
 1. [绩点到底有没有用](2-survive/1-GPA.md)
 2. [选课也是一门艺术](2-survive/2-choose-course.md)
@@ -37,21 +37,21 @@
 5. [为什么不要挂科](2-survive/5-why-not-fail-pass.md)
 6. [双学位有啥用（有用吗）](2-survive/6-double-degree.md)
 
-## 未来篇
+## Ⅳ 未来篇
 
 1. [出国深造]()
 2. [国内升学]()
 3. [本科就业]()
 
-## 经验分享篇
+## Ⅴ 经验分享篇
 
 1. [远离PUA——如何判断你的导师是否和你是一个Good Match？](4-experience-sharing/1-identify-PUA.md)
 2. [深造还是工作？关于读研的劝退](4-experience-sharing/2-work-or-study.md)
 
-## 杂项
+## Ⅵ 杂项
 
 1. [一些有用的链接](98-others/1-useful-links.md)
 
-## 致谢
+## Ⅶ 致谢
 
 * [致谢](99-acknowledgment/acknowledgment.md)
