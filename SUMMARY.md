@@ -27,6 +27,7 @@
 * [AI算法类实习经验指北](1-save-self/16-ai-internship.md)
 * [System类实习经验指北](1-save-self/17-system-internship.md)
 * [Deep Dive to OCW](1-save-self/18-deep-dive-to-ocw.md)
+* [不转专业，坏处到底在哪？](1-save-self/19-if-not-cs.md)
 
 ## 生存篇
 
