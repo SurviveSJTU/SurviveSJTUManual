@@ -45,10 +45,11 @@
 学术研究类：
 > 学术研究类实习有一个特点是跟导师强相关，所以建议优先联系导师或者找人内推，比如你正式在官网投递之前先给导师发封邮件问一下招不招这样。当然如果硬投也不是不行，就是需要自己的学术背景比较match之类的。
 
-- MSRA（微软亚洲研究院，泛AI类的黄埔军校，当然也包括ML System）
+- MSRA（微软亚洲研究院，泛AI类的黄埔军校，MSRA内部有个System Research Group，主要是做AI System的研究，还有Trustworthy Group，主要是做安全相关研究）
 - 阿里巴巴达摩院（感觉也主要是AI类，包括ML System或许）
+- 阿里的项目制实习生，有很多System、Networking、Database和Security相关的，目测可能是阿里云的研究项目[Link](https://talent.alibaba.com/campus/position-list?campusType=talentPlan)
 - 国内外各大高校的系统实验室
-  国内主要是：清华大学、中国科学院计算技术研究所、北京大学、上海交通大学、上海科技大学、南方科技大学、浙江大学、南京大学等。  
+  国内主要是：清华大学（高性能所，清华高性能所主要是做存储和体系结构多一点，比如Storage System Group和MadSys；以及清华网研院的NISL，段海新老师的组）、中国科学院计算技术研究所、北京大学（北大有个JHU回来的老师，Xin Jin，特别猛）、上海交通大学（IPADS）、上海科技大学、南方科技大学（南科大有很多做Security的老师）、浙江大学（浙大主要是Security方向的老师多）、南京大学（南大主要是软件工程和编程语言的研究）等。  
   国外就比较多了，不管是国内还是国外的，都可以上CSRanking选择Systems进行查看：[Link](http://csrankings.org/#/index?arch&comm&sec&mod&hpc&mobile&metrics&ops&plan&soft&da&bed&world)
 - 大厂的一些零散的实验室（腾讯AI Lab那边可能多些，包括ML System或许）
 
@@ -76,4 +77,5 @@
 
 - 其他基础架构/分布式系统相关：  
     (1) 字节跳动系统组(System Group)  
+    (2) 阿里云
 
