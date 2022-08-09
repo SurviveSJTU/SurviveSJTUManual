@@ -7,7 +7,8 @@
   - Computer vision
   - Machine learning & data mining
   - Natural language processing
-  - The Web & information retrieval 
+  - The Web & information retrieval：跟Deep Learning三大应用之一的搜广推密切相关，目前的细分方向主要有认知搜索（与脑机接口技术结合）、神经搜索（以跨模态检索为主，把不同种类的数据按照同样的结构做向量化存储，同时对已有不同数据库支持vector search和filter）以及搜索引擎中的公平性与隐私性（在Trustworthy ML研究范围之内），THUIR的work基本代表了国内最前沿的研究
+
 - System：着重介绍下System系统领域
   - Computer Architecture：顾名思义，计算机体系结构主要研究计算机本身的架构等，包括CPU和GPU等的架构，本身这个研究方向会比较偏向硬件；这一部分研究和Operating system的研究会有部分重合；
   - Computer Networks：计算机网络主要研究为当前的网络环境提出更合适的协议，优化网络协议，软件定义网络，以及对网络架构进行优化和加速等；网络领域的科研往往需要比较大规模的实验，现在的这个方向
