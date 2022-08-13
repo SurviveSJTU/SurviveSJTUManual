@@ -16,9 +16,9 @@
 System Research的进阶课程包含编译原理、分布式系统、操作系统、计算机网络和数据库等相关课程。但是川大在这部分课程上相比数学等基础课程的质量更差了，先不说数据库只讲SQL语言而不讲实现原理这种操作，分布式系统这种重要的课程甚至完全没开。
 
 这里WhileBug给大家推荐一些课程：
-[MIT-分布式系统](https://www.bilibili.com/video/BV1CU4y1P7PE?spm_id_from=333.337.search-card.all.click&vd_source=83d0dd327837606efeb7ba762911a4f4)
-[CMU-数据库系统](https://www.bilibili.com/video/BV1Cp4y1C7dv/?spm_id_from=333.788.recommend_more_video.1&vd_source=83d0dd327837606efeb7ba762911a4f4)
-[Stanford-编译原理](https://www.bilibili.com/video/BV1Ms411A7EP?spm_id_from=333.337.search-card.all.click&vd_source=83d0dd327837606efeb7ba762911a4f4)
-[Stanford-计算机网络](https://www.bilibili.com/video/BV137411Z7LR?spm_id_from=333.337.search-card.all.click&vd_source=83d0dd327837606efeb7ba762911a4f4)
-[南大-操作系统](https://www.bilibili.com/video/BV1Cm4y1d7Ur?spm_id_from=333.337.search-card.all.click&vd_source=83d0dd327837606efeb7ba762911a4f4)
-[南大-软件分析](https://www.bilibili.com/video/BV1b7411K7P4?vd_source=83d0dd327837606efeb7ba762911a4f4)
+[MIT-分布式系统](https://www.bilibili.com/video/BV1CU4y1P7PE)
+[CMU-数据库系统](https://www.bilibili.com/video/BV1Cp4y1C7dv)
+[Stanford-编译原理](https://www.bilibili.com/video/BV1Ms411A7EP)
+[Stanford-计算机网络](https://www.bilibili.com/video/BV137411Z7LR)
+[南大-操作系统](https://www.bilibili.com/video/BV1Cm4y1d7Ur)
+[南大-软件分析](https://www.bilibili.com/video/BV1b7411K7P4)
