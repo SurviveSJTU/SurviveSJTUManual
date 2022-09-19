@@ -71,7 +71,7 @@
     (2) 源伞科技  
 
 - 数据库系统方向：  
-    (1) PingCap  
+    (1) PingCAP  
     (2) DolphinDB  
     (3) Singularity Data  
 
