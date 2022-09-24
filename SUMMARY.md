@@ -22,7 +22,7 @@
 * [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
 * [做研究的兴趣](li-zhi-pian/zuo-yan-jiu-de-xing-qu.md)
 * [关于工作](li-zhi-pian/guan-yu-gong-zuo/README.md)
-  * [选调生介绍（TODO\)](li-zhi-pian/guan-yu-gong-zuo/xuan-tiao-sheng-jie-shao-todo.md)
+  * [选调生介绍（TODO)](li-zhi-pian/guan-yu-gong-zuo/xuan-tiao-sheng-jie-shao-todo.md)
 
 ## 访谈集
 
@@ -53,7 +53,7 @@
   * [明确目的](fang-tan-ji/bao-yan-zhe-shuo/ming-que-mu-de.md)
   * [需要做些什么](fang-tan-ji/bao-yan-zhe-shuo/xu-yao-zuo-xie-shen-me.md)
   * [硕士之后](fang-tan-ji/bao-yan-zhe-shuo/shuo-shi-zhi-hou.md)
-* [考研（TODO\)](fang-tan-ji/kao-yan-todo.md)
+* [考研（TODO)](fang-tan-ji/kao-yan-todo.md)
 * [破解留沪政策](fang-tan-ji/po-jie-liu-hu-zheng-ce/README.md)
   * [面对户口，我们应该持有什么样的心态](fang-tan-ji/po-jie-liu-hu-zheng-ce/mian-dui-hu-kou-wo-men-ying-gai-chi-you-shen-me-yang-de-xin-tai.md)
   * [户口审批制度是否规范？](fang-tan-ji/po-jie-liu-hu-zheng-ce/hu-kou-shen-pi-zhi-du-shi-fou-gui-fan.md)
@@ -101,6 +101,7 @@
   * [会计学15级同学分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/hui-ji-xue-15-ji-tong-xue-fen-xiang.md)
   * [软件学院介绍](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/ruan-jian-xue-yuan-jie-shao.md)
   * [ACM班小透明分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/acm-ban-xiao-tou-ming-fen-xiang.md)
+  * [日语系 13 级学姐分享](fu-lu/ben-ke-sheng-zhuan-ye-jie-shao-todo/ri-yu-xi-13-ji-xue-jie-fen-xiang.md)
 * [本科生转专业经验分享TODO](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/README.md)
   * [CS19级转入SE经验分享](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/cs19-ji-zhuan-ru-se-jing-yan-fen-xiang.md)
   * [19级测控技术与仪器转信息安全](fu-lu/ben-ke-sheng-zhuan-zhuan-ye-jing-yan-fen-xiang-todo/19-ji-ce-kong-ji-shu-yu-yi-qi-zhuan-xin-xi-an-quan.md)
@@ -121,4 +122,3 @@
   * [上海交通大学CS生存指南--番外篇1](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/shang-hai-jiao-tong-da-xue-cs-sheng-cun-zhi-nan-fan-wai-pian-1.md)
   * [软件工程15级-互联网产品经理经验分享](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/ruan-jian-gong-cheng-15-ji-hu-lian-wang-chan-pin-jing-li-jing-yan-fen-xiang.md)
 * [本科毕业之后](fu-lu/sjtu-application.md)
-
