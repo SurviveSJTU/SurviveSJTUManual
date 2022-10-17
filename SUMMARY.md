@@ -22,7 +22,8 @@
 * [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
 * [做研究的兴趣](li-zhi-pian/zuo-yan-jiu-de-xing-qu.md)
 * [关于工作](li-zhi-pian/guan-yu-gong-zuo/README.md)
-  * [选调生介绍（TODO)](li-zhi-pian/guan-yu-gong-zuo/xuan-tiao-sheng-jie-shao-todo.md)
+* [选调生介绍（TODO)](li-zhi-pian/guan-yu-gong-zuo/xuan-tiao-sheng-jie-shao-todo.md)
+
 
 ## 访谈集
 
