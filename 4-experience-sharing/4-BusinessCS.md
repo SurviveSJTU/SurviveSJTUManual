@@ -9,7 +9,7 @@
 **商学院：Operations Management & Management Information Systems**
 - OR/Math+CS+商科/社科领域的应用==OM，参考Uchi Booth的介绍翻译：利用数学和计算机方法进行研究（目前较多使用Machine Learning），帮助管理人员开发更好的系统并做出更好的决策
 - CS+商科/社科领域的应用==MIS，目前较多涉及Machine Learning，Data Mining等。
-- 此处的OM与MIS特指商学院下的专业，与ischool下的相关专业在制度上有所不同，研究内容相似
+- 此处的OM与MIS特指商学院下的专业，与ischool下的相关专业在制度上有所不同，研究内容相似。每个商学院相关系的名称不一样，如Upenn Warton底下叫做Operations, Information and Decisions
 - Data Science学院的研究较杂，会涉及多个专业招生。国内如港中深数据科学学院学术水平非常高，有OR、CS、OM相关领域的老师，大家可以尝试套磁做科研
 
 **商学院的独特之处**
