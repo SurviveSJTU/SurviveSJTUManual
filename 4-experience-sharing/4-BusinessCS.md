@@ -37,7 +37,11 @@
 1.CS，Math背景做proof  
 2.代码能力  
 3.炼丹熟练度  
-4.实证方法  5.研究方向是否match  6.pre能力  7.self-motivated等  8.有一篇高质量的paper（未发表的高质量paper>一般水平的已发表文章，因此好好打磨一篇足矣）
+4.实证方法  
+5.研究方向是否match  
+6.pre能力  
+7.self-motivated等  
+8.有一篇高质量的paper（未发表的高质量paper>一般水平的已发表文章，因此好好打磨一篇足矣）
 
 
 
