@@ -35,7 +35,7 @@
 3. [如何应对没啥大用的实验报告](2-survive/3-cope-report.md)
 4. [期末抱佛脚指南](2-survive/4-cramming.md)
 5. [为什么不要挂科](2-survive/5-why-not-fail-pass.md)
-6. [双学位有啥用（有用吗）](2-survive/6-double-degree.md)
+6. [双学位有啥用（有用吗）☑](2-survive/6-double-degree.md)
 
 ## Ⅳ 未来篇
 
