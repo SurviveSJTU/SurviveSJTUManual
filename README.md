@@ -13,14 +13,13 @@
 3. [计算机包括哪些方向？如何选择这些方向？](1-save-self/3-fields.md)
 4. [重要的基础课](1-save-self/4-important-basics.md)
 5. [什么是科研](1-save-self/8-what-is-research.md)
-6. [平衡自己的生活](1-save-self/10-balance-your-life.md)
-7. [应对内卷焦虑](1-save-self/11-cope-with-anxiety.md)
-8. [如何提高自己的代码/工程能力](1-save-self/12-improve-coding.md)
-9. [外专业的同学如何转专业到计软网？转过来后如何适应](1-save-self/14-transfer-major.md)
-10. [AI算法类实习经验指北](1-save-self/16-ai-internship.md)
-11. [System类实习经验指北](1-save-self/17-system-internship.md)
-12. [Deep Dive to OCW](1-save-self/18-deep-dive-to-ocw.md)
-13. [不转专业，坏处到底在哪？](1-save-self/19-if-not-cs.md)
+6. [应对内卷焦虑](1-save-self/11-cope-with-anxiety.md)
+7. [如何提高自己的代码/工程能力](1-save-self/12-improve-coding.md)
+8. [外专业的同学如何转专业到计软网？转过来后如何适应](1-save-self/14-transfer-major.md)
+9. [AI算法类实习经验指北](1-save-self/16-ai-internship.md)
+10. [System类实习经验指北](1-save-self/17-system-internship.md)
+11. [Deep Dive to OCW](1-save-self/18-deep-dive-to-ocw.md)
+12. [不转专业，坏处到底在哪？](1-save-self/19-if-not-cs.md)
 
 ## Ⅲ 生存篇
 
