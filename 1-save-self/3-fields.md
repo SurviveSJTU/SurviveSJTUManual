@@ -2,11 +2,13 @@
 
 这里参考 [CSRankings](https://csrankings.org/) 对于计算机研究方向的分类，并不全面，而且很多都是我个人的理解，不一定准确，主要是帮助各位SCU的本科学弟学妹科普。并且由于我本人主要是研究System这一大块方向的，所以主要介绍System这一大类。
 
-- AI：AI领域大家都比较熟了，就不介绍了
-  - Artificial intelligence
-  - Computer vision
-  - Machine learning & data mining
-  - Natural language processing
+- AI：人工智能（Artificial intelligence）得益于其“数据驱动”的特点，在近些年得到了广泛的研究与应用。
+  - Machine learning & data mining：通常指经典的机器学习方法，包括分类（Classification）、回归（Regression）、聚类（Clustering）、降维（Dimensionality Reduction）等子领域，也包括算法的部署（分布式计算、联邦学习等）
+  - Computer vision：因互联网中广泛的应用场景而备受重视的研究领域之一，主要任务是提取图像中的特征，将特征应用于分类、目标检测与追踪、分割、检索、补帧、超分辨率等任务；另外与计算机图形学、机器人学、自动驾驶等有紧密的联系
+  - Natural language processing：另一备受重视的研究领域，主要处理以文本为主，有翻译、检索等传统研究方向，也有掩码语言模型（Masked Language Model）等新兴研究方向
+  - Multimodal learning：“模态”（Modality）指一种信息的表现形式，如图像、文字、语音、动作等。多模态研究重点关注多个模态之间的表示（表示学习）、对齐（Cross-modal Retrival 等）、翻译（Image Captioning 等）、融合（情感分析等）、协同学习（多个模态共享知识）等问题
+  - Content Generation：内容生成其实已经包括在之前的 entry 中，这里主要强调使用 AI 进行“创造性”的工作；包括单一模态，如文字续写、图像扩展、图像风格化，也包括多个模态，如从图像生成文字（Image Captioning）、从文字生成图像等
+  - Reinforcement learning：研究不多（逃
   - The Web & information retrieval：跟Deep Learning三大应用之一的搜广推密切相关，目前的细分方向主要有认知搜索（与脑机接口技术结合）、神经搜索（以跨模态检索为主，把不同种类的数据按照同样的结构做向量化存储，同时对已有不同数据库支持vector search和filter）以及搜索引擎中的公平性与隐私性（在Trustworthy ML研究范围之内），THUIR的work基本代表了国内最前沿的研究
 
 - System：着重介绍下System系统领域
