@@ -82,7 +82,7 @@
   * [风险与收益并存](sheng-cun-ji-qiao/zheng-que-jie-du-cheng-ji-suan-fa/feng-xian-yu-shou-yi-bing-cun.md)
 * [旁门左道](sheng-cun-ji-qiao/pang-men-zuo-dao/README.md)
   * [开学前两周的点名](sheng-cun-ji-qiao/pang-men-zuo-dao/kai-xue-qian-liang-zhou-de-dian-ming.md)
-  * [理解“免听”](sheng-cun-ji-qiao/pang-men-zuo-dao/li-jie-mian-ting.md)
+  * [善用GPT](sheng-cun-ji-qiao/pang-men-zuo-dao/shan-yong-gpt.md)
   * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
   * [物理实验](sheng-cun-ji-qiao/pang-men-zuo-dao/wu-li-shi-yan.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
