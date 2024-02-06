@@ -16,15 +16,15 @@
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
-* [反对 PUA](li-zhi-pian/FAN-dui-pua.md)
+* [反对PUA](li-zhi-pian/FAN-dui-pua.md)
 * [悲壮的学习方式](li-zhi-pian/bei-zhuang-de-xue-xi-fang-shi.md)
 * [你的身价是多少](li-zhi-pian/ni-de-shen-jia-shi-duo-shao.md)
 * [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
 * [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
+* [认识信息素养](li-zhi-pian/ren-shi-xin-xi-su-yang.md)
 * [做研究的兴趣](li-zhi-pian/zuo-yan-jiu-de-xing-qu.md)
 * [关于工作](li-zhi-pian/guan-yu-gong-zuo/README.md)
 * [选调生介绍（TODO)](li-zhi-pian/guan-yu-gong-zuo/xuan-tiao-sheng-jie-shao-todo.md)
-
 
 ## 访谈集
 
