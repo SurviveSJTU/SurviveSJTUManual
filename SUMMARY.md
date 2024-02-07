@@ -16,14 +16,15 @@
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
+* [反对PUA](li-zhi-pian/FAN-dui-pua.md)
 * [悲壮的学习方式](li-zhi-pian/bei-zhuang-de-xue-xi-fang-shi.md)
 * [你的身价是多少](li-zhi-pian/ni-de-shen-jia-shi-duo-shao.md)
 * [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
 * [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
+* [认识信息素养](li-zhi-pian/ren-shi-xin-xi-su-yang.md)
 * [做研究的兴趣](li-zhi-pian/zuo-yan-jiu-de-xing-qu.md)
 * [关于工作](li-zhi-pian/guan-yu-gong-zuo/README.md)
 * [选调生介绍（TODO)](li-zhi-pian/guan-yu-gong-zuo/xuan-tiao-sheng-jie-shao-todo.md)
-
 
 ## 访谈集
 
@@ -33,7 +34,7 @@
   * [出国都有哪些步骤](fang-tan-ji/untitled/chu-guo-du-you-na-xie-bu-zhou.md)
   * [为了申请出国，大学期间需要准备什么](fang-tan-ji/untitled/wei-le-shen-qing-chu-guo-da-xue-qi-jian-xu-yao-zhun-bei-shen-me.md)
   * [警惕出国中介](fang-tan-ji/untitled/jing-ti-chu-guo-zhong-jie.md)
-  * [疫情下的留学新常态](fang-tan-ji/untitled/yi-qing-xia-de-liu-xue-xin-chang-tai.md)
+  * [疫情后的留学新常态](fang-tan-ji/untitled/yi-qing-xia-de-liu-xue-xin-chang-tai.md)
 * [做真正的研究](fang-tan-ji/zuo-zhen-zheng-de-yan-jiu/README.md)
   * [合理的研究态度](fang-tan-ji/zuo-zhen-zheng-de-yan-jiu/he-li-de-yan-jiu-tai-du.md)
   * [区分上学与研究](fang-tan-ji/zuo-zhen-zheng-de-yan-jiu/qu-fen-shang-xue-yu-yan-jiu.md)
@@ -66,7 +67,7 @@
 
 * [交大转专业指南](sheng-cun-ji-qiao/jiao-da-zhuan-zhuan-ye-zhi-nan.md)
 * [选课原则与选课技巧](sheng-cun-ji-qiao/untitled/README.md)
-  * [我是否一定要选二专？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-er-zhuan.md)
+  * [我是否一定要选辅修？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-fu-xiun.md)
   * [选课选什么](sheng-cun-ji-qiao/untitled/xuan-ke-xuan-shen-me.md)
   * [广占坑，占好坑](sheng-cun-ji-qiao/untitled/guang-zhan-keng-zhan-hao-keng.md)
 * [突击备考](sheng-cun-ji-qiao/tu-ji-bei-kao/README.md)
@@ -81,7 +82,7 @@
   * [风险与收益并存](sheng-cun-ji-qiao/zheng-que-jie-du-cheng-ji-suan-fa/feng-xian-yu-shou-yi-bing-cun.md)
 * [旁门左道](sheng-cun-ji-qiao/pang-men-zuo-dao/README.md)
   * [开学前两周的点名](sheng-cun-ji-qiao/pang-men-zuo-dao/kai-xue-qian-liang-zhou-de-dian-ming.md)
-  * [理解“免听”](sheng-cun-ji-qiao/pang-men-zuo-dao/li-jie-mian-ting.md)
+  * [善用GPT](sheng-cun-ji-qiao/pang-men-zuo-dao/shan-yong-gpt.md)
   * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
   * [物理实验](sheng-cun-ji-qiao/pang-men-zuo-dao/wu-li-shi-yan.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
