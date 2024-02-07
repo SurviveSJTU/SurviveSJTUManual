@@ -16,7 +16,7 @@
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
-* [反对PUA](li-zhi-pian/FAN-dui-pua.md)
+* [反对PUA](li-zhi-pian/fan-dui-pua.md)
 * [悲壮的学习方式](li-zhi-pian/bei-zhuang-de-xue-xi-fang-shi.md)
 * [你的身价是多少](li-zhi-pian/ni-de-shen-jia-shi-duo-shao.md)
 * [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
@@ -67,7 +67,7 @@
 
 * [交大转专业指南](sheng-cun-ji-qiao/jiao-da-zhuan-zhuan-ye-zhi-nan.md)
 * [选课原则与选课技巧](sheng-cun-ji-qiao/untitled/README.md)
-  * [我是否一定要选辅修？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-fu-xiun.md)
+  * [我是否一定要选辅修？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-fu-xiu.md)
   * [选课选什么](sheng-cun-ji-qiao/untitled/xuan-ke-xuan-shen-me.md)
   * [广占坑，占好坑](sheng-cun-ji-qiao/untitled/guang-zhan-keng-zhan-hao-keng.md)
 * [突击备考](sheng-cun-ji-qiao/tu-ji-bei-kao/README.md)

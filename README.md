@@ -44,6 +44,7 @@
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
+* [反对PUA](li-zhi-pian/fan-dui-pua.md)
 * [悲壮的学习方式](li-zhi-pian/bei-zhuang-de-xue-xi-fang-shi.md)
 * [你的身价是多少](li-zhi-pian/ni-de-shen-jia-shi-duo-shao.md)
 * [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
