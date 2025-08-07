@@ -114,3 +114,14 @@
   * [物理实验](sheng-cun-ji-qiao/pang-men-zuo-dao/wu-li-shi-yan.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
 
+
+### Star History
+
+<a href="https://www.star-history.com/#SurviveSJTU/SurviveSJTUManual&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SurviveSJTU/SurviveSJTUManual&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SurviveSJTU/SurviveSJTUManual&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SurviveSJTU/SurviveSJTUManual&type=Date" />
+ </picture>
+</a>
+
