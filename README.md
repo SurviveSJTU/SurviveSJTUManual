@@ -33,6 +33,14 @@
 
 ## 旧版目录（最新版请参考SUMMARY.md）
 
+<!--
+workaround:
+- try preventing the old TOC from being reading by ebook builders, otherwise wrong links will be generated.
+- try preventing the old TOC from being reading by readers.
+-->
+<details>
+<summary>旧版目录</summary>
+
 ### 序
 
 * [声明](xu/sheng-ming.md)
@@ -113,6 +121,8 @@
   * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
   * [物理实验](sheng-cun-ji-qiao/pang-men-zuo-dao/wu-li-shi-yan.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
+
+</details>
 
 
 ### Star History

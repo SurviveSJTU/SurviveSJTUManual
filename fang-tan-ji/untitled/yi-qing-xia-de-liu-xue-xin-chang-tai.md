@@ -16,4 +16,4 @@ description: Lianke
 
 ![](../../.gitbook/assets/regions.png)
 
-![](../../.gitbook/assets/jobs.png)
+![](../../.gitbook/assets/job.png)
