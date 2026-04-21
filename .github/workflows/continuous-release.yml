@@ -1,0 +1,107 @@
+name: Release ebooks
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Install Calibre
+        run: |
+          set -e
+
+          sudo apt update
+          sudo apt install -y calibre gawk fonts-noto-cjk-extra fonts-noto-mono
+
+      - name: Install HonKit globally
+        run: npm install -g honkit
+
+      - name: Build PDF & EPUB Documents
+        run: .github/resources/build-ebooks.sh
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: SurviveSJTUManual-ebooks
+          path: |
+            SurviveSJTUManual.pdf
+            SurviveSJTUManual.epub
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # for GitHub CLI
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Download Artifacts
+        uses: actions/download-artifact@v8
+        with:
+          name: SurviveSJTUManual-ebooks
+
+      - name: Delete Old Continuous Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -ex
+
+          # https://cli.github.com/manual/gh_release
+          if gh release view 'continuous'; then
+            gh release delete 'continuous' --cleanup-tag --yes
+
+            while gh release view 'continuous'; do
+              echo 'the release is still there'
+              sleep 5
+            done
+          fi
+
+      - name: What Time?
+        id: my_watch
+        uses: josStorer/get-current-time@060cae3fbd32c181c6841788189a601ac8df8389  # v2.1.2
+        with:
+          utcOffset: "+08:00"
+
+      - name: Construct Chinese Date Time
+        id: datetime_str
+        run: |
+          set -eu
+
+          year='${{ steps.my_watch.outputs.year }}'
+          month="$(printf '%02d' '${{ steps.my_watch.outputs.month }}')"
+          day="$(printf '%02d' '${{ steps.my_watch.outputs.day }}')"
+          hour="$(printf '%02d' '${{ steps.my_watch.outputs.hour }}')"
+          minute="$(printf '%02d' '${{ steps.my_watch.outputs.minute }}')"
+          second="$(printf '%02d' '${{ steps.my_watch.outputs.second }}')"
+
+          echo "result=${year}年${month}月${day}日${hour}时${minute}分${second}秒" >> "$GITHUB_OUTPUT"
+
+      - name: Publish a Continuous Release
+        uses: softprops/action-gh-release@6da8fa9354ddfdc4aeace5fc48d7f679b5214090  # v2.4.1
+        with:
+          name: 最新版本
+          tag_name: continuous
+          make_latest: true
+          files: |
+            SurviveSJTUManual.pdf
+            SurviveSJTUManual.epub
+          body: |
+            # 《上海交通大学生存手册》
+
+            请在下方 Assets 中下载电子书。
+
+            发布于${{ steps.datetime_str.outputs.result }}
