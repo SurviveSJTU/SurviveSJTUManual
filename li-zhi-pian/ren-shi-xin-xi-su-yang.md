@@ -35,7 +35,7 @@ description: By Yikai Yang
 - 发送链接前缩短链接，防止刷屏并保护隐私：[链接追踪简介](https://blog.douchi.space/url-sanitizer/)、[链接追踪解决方案](https://bgm.tv/group/topic/363349)
 - 善用第三方脚本，像网页端的 [Tampermonkey](https://www.tampermonkey.net/) 就能承载许多优质插件，如：[jAccount 验证码自动识别](https://greasyfork.org/zh-CN/scripts/432645)、[Canvas 平台课程视频播放器优化](https://greasyfork.org/zh-CN/scripts/432918)、[搜索引擎结果净化](https://greasyfork.org/zh-CN/scripts/14178)等
 - 学习 [SJTU 开学季防上当受骗指南](https://notes.sjtu.edu.cn/s/LZWwhMe_e)
-- 学习[钓鱼邮件防范详细指南](http://itc.cqjtu.edu.cn/info/1031/1407.htm)
+- 学习[钓鱼邮件防范详细指南](https://itc.cqjtu.edu.cn/info/1022/1085.htm)
 
 当然这些并不是全部，如果以上大部分建议对你来说是第一次听闻，那么你可能需要继续学习信息素养。
 
