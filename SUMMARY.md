@@ -124,4 +124,5 @@
 * [已经工作学长的人生经验TODO](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/README.md)
   * [上海交通大学CS生存指南--番外篇1](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/shang-hai-jiao-tong-da-xue-cs-sheng-cun-zhi-nan-fan-wai-pian-1.md)
   * [软件工程15级-互联网产品经理经验分享](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/ruan-jian-gong-cheng-15-ji-hu-lian-wang-chan-pin-jing-li-jing-yan-fen-xiang.md)
+* [给即将来交大读研的同学：入学、实习与方向选择](fu-lu/yan-jiu-sheng-ru-xue-yu-shi-xi.md)
 * [本科毕业之后](fu-lu/sjtu-application.md)
