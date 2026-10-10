@@ -1,0 +1,6 @@
+/* Keep a follow-up paragraph with the preceding paragraph in a numbered item,
+   so a question is less likely to appear alone at the end of a page. */
+ol > li > p + p {
+    page-break-before: avoid;
+    break-before: avoid;
+}
