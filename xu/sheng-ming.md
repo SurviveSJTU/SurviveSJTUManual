@@ -1,6 +1,5 @@
 # 旧版声明
 
-```text
 《上海交通大学生存手册》（后简称“手册”）是一本公益小册子。手册是数十位作者根据兴趣自发撰写完成，版权属于本书编委会。在本书撰写过程中，我们始终以“中立”和“公益”为原则，没有接受其他任何组织任何形式的支持。未经编委会许可，任何组织或个人不得违反相应的版权条例抄袭、转载、摘编、修改本书内容；不得将本书用于商业目的；不得对本手册原意进行曲解、修改和未授权的大范围分发。
 
 手册是一部集合了二十多篇独立文章的作品集锦。每一小节均由不同作者撰写。在编写本手册时，作者们听取了大量同学的意见和观点，并尽可地将各种观点统一在手册的框架下。这样做的目的，是希望能向读者传达更多可供参考的观点和意见。本手册并不构成任何明确的行动建议，因此作者不承担由此产生的衍生责任。
@@ -9,8 +8,7 @@
 
 本书编委会欢迎接受您的指教。如果您对本书内容有任何问题、或建议，请联络我们：survivesjtu @ gmail.com。我们并不保证回复每一封邮件，但是我们会认真接受并思考您的意见，并在后续版本中做出相应的改进。
 
-在以下网站上，我们将会提供本书最新电子版下载： [http://sites.google.com/site/survivesjtu/](http://sites.google.com/site/survivesjtu/) [http://hi.baidu.com/survivesjtu/blog/](http://hi.baidu.com/survivesjtu/blog/) [http://blog.sina.com.cn/survivesjtu/](http://blog.sina.com.cn/survivesjtu/)
+在以下网站上，我们将会提供本书最新电子版下载： [Google Sites](http://sites.google.com/site/survivesjtu/) [百度博客](http://hi.baidu.com/survivesjtu/blog/) [新浪博客](http://blog.sina.com.cn/survivesjtu/)
 
-                                                                                                                                                  本书编委会
-```
+本书编委会
 
