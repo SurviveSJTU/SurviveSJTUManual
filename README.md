@@ -23,13 +23,11 @@
 
 欢迎交大在读与已经毕业的同学提PR，也欢迎外校同学就实习、转学等项PR，如果您对本书内容有任何问题、或建议，请提issue，谢谢！
 
-## 提issue
+## 参与贡献
 
-如果有同学对访谈集内内容持有怀疑意见，认为某篇访谈内容作者过于片面或者不属实请在issue区指出具体不合适的地方，我们随后会尽力寻找相似背景的同学进行二次review作出修改
+欢迎提交 issue 或 PR。反馈内容问题时，请附上对应章节链接、具体问题、适用的时间与个人背景、可核查来源，以及建议的修改方式。
 
-## 如何PR
-
-在gitbook.com网站上利用github账号登录，fork SurviveSJTU/SurviveSJTUManual 到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR，通过review后合并到master branch
+网页编辑、本地 Git 工作流、提交要求和可选电子书构建环境的说明，请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 旧版目录（最新版请参考SUMMARY.md）
 
