@@ -46,11 +46,11 @@ git switch -c docs/my-update upstream/master
 git diff --check
 git diff
 git add README.md
-git commit -m "docs: update contribution instructions"
+git commit -m "docs: update ..."
 git push -u origin docs/my-update
 ```
 
-这里以修改 `README.md` 为例；请将 `git add` 的文件名和提交说明替换为本次实际修改的内容。随后在 GitHub 个人 fork 中创建 PR，目标仓库和分支同上。使用 GitBook 编辑也是可选方式，但无需为了提交 PR 专门使用 GitBook。
+这里以修改 `README.md` 为例；请将 `git add` 的文件名和 `git commit` 时指定的提交信息替换为本次实际修改的内容。随后在 GitHub 个人 fork 中创建 PR，目标仓库和分支同上。使用 GitBook 编辑也是可选方式，但无需为了提交 PR 专门使用 GitBook。
 
 提交前请检查段落、链接和目录入口；经验分享应注明背景和时间，政策信息应附对应的官方来源，避免提交他人的隐私或未获许可的材料。
 
