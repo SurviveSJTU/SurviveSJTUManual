@@ -17,7 +17,7 @@
 
 - **网页编辑与提 PR**：只需要 GitHub 账号和浏览器，无需安装 Git、Node.js 或 GitBook，也不需要注册 GitBook 账号。
 - **本地编辑与提 PR**：需要 Git 和文本编辑器；文档采用 Markdown，最新版目录为 [SUMMARY.md](SUMMARY.md)。
-- **可选的本地电子书构建**：当前[发布工作流](.github/workflows/continuous-release.yml)使用 Ubuntu、Node.js 24 / npm、HonKit、Calibre、GNU awk 和 Noto 中文字体。这些工具只用于生成 EPUB / PDF，不是参与文字贡献的前提。
+- **可选的本地电子书构建**：当前[发布工作流](.github/workflows/continuous-release.yml)在 Ubuntu 上使用 Node.js 24 / npm、HonKit、Calibre、GNU awk 和 Noto 中文字体。这些工具只用于生成 EPUB / PDF，不是参与文字贡献的前提。
 
 ## 如何提 PR
 
@@ -56,7 +56,7 @@ git push -u origin docs/my-update
 
 ## 可选：本地生成 EPUB / PDF
 
-如需复现当前发布流程，建议使用 Ubuntu；Windows 用户可以使用 Ubuntu WSL。先安装 Node.js 24 和 npm，再安装构建依赖。以下命令与仓库的 Ubuntu 发布工作流对应：
+如需复现当前发布流程，建议使用 Ubuntu；Windows 用户可以使用 Ubuntu WSL。先从 [Node.js 官方下载页面](https://nodejs.org/en/download)安装 Node.js 24 和 npm，再安装构建依赖。以下命令与仓库的 Ubuntu 发布工作流对应：
 
 ```sh
 sudo apt update
@@ -67,4 +67,4 @@ bash .github/resources/build-ebooks.sh
 
 构建成功后，仓库根目录会生成 `SurviveSJTUManual.epub` 和 `SurviveSJTUManual.pdf`。其他系统的安装方式可参考 [HonKit 文档](https://honkit.netlify.app/setup.html)及 [Calibre 下载页](https://calibre-ebook.com/download)。
 
-构建脚本会临时修改根目录的 `README.md`，并在正常结束时恢复。请在工作区干净时执行；若构建中断，先检查 `git diff`，从脚本创建的临时备份恢复文件，避免误提交构建产生的修改。电子书构建输出无需随文字 PR 提交。
+构建脚本会临时修改根目录的 `README.md`，并在正常结束时恢复。请在工作区干净时执行；若构建中断，先用 `git diff` 检查状态，确认没有需要保留的 `README.md` 修改后，再运行 `git restore README.md` 恢复文件，避免误提交构建产生的修改。电子书构建输出无需随文字 PR 提交。
